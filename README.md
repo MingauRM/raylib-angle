@@ -1,7 +1,7 @@
 # Raylib with OpenGL ES 2.0
 
 Link to original repositories:
-[ANGLE](https://github.com/google/angle)
+[ANGLE](https://github.com/google/angle)<br>
 [Raylib](https://github.com/raysan5/raylib)
 
 ## File structure
@@ -21,3 +21,8 @@ SOURCE-FOLDER/ <br>
 ## GCC Command
 
 gcc main.c -o main.exe -Iinclude -Iinclude/raylib -Llib -lraylib -lGLESv2 -lEGL -lopengl32 -lgdi32 -lwinmm
+
+
+## License
+
+This repository/project has no license (All rights reserved), feel free to use it where you want, it's just a pre-compiled version of Raylib + ANGLE to use it on older devices, so you don't need to go through it. Just clone this repository and start working.
