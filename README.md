@@ -1,6 +1,6 @@
 # Raylib with OpenGL ES 2.0
 
-Link to original repositories:
+Link to original repositories:<br>
 [ANGLE](https://github.com/google/angle)<br>
 [Raylib](https://github.com/raysan5/raylib)
 
