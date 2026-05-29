@@ -8,8 +8,8 @@ Link to original repositories:<br>
 
 SOURCE-FOLDER/ <br>
 ├── include/ <br>
-│   ├── EGL/ (egl.h, eglext.h, eglplatform.h) (From [Khronos headers](https://registry.khronos.org/EGL)<br>
-│   ├── GLES2/ (gl2.h, gl2ext.h, gl2platform.h) (From [Khronos headers](https://registry.khronos.org/OpenGL/index_es.php#headers2)))<br>
+│   ├── EGL/ (egl.h, eglext.h, eglplatform.h) (From [Khronos headers](https://registry.khronos.org/EGL))<br>
+│   ├── GLES2/ (gl2.h, gl2ext.h, gl2platform.h) (From [Khronos headers](https://registry.khronos.org/OpenGL/index_es.php#headers2))<br>
 │   ├── raylib/ (raylib.h, raymath.h, rlgl.h) (From [Raylib repo](https://github.com/raysan5/raylib))<br>
 │   └── khrplatform.h<br>
 ├── lib/<br>
