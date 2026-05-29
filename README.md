@@ -20,7 +20,7 @@ SOURCE-FOLDER/ <br>
 
 ## GCC Command
 
-gcc main.c -o main.exe -Iinclude -Iinclude/raylib -Llib -lraylib -lGLESv2 -lEGL -lopengl32 -lgdi32 -lwinmm
+gcc <your_main_file.c> -o <executable_name.exe> -Iinclude -Iinclude/raylib -Llib -lraylib -lGLESv2 -lEGL -lopengl32 -lgdi32 -lwinmm
 
 
 ## License
